@@ -43,4 +43,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/arshh020/DSA-Solutions/tree/master/0890-lemonade-change) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/arshh020/DSA-Solutions/tree/master/1250-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/arshh020/DSA-Solutions/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
